@@ -2,6 +2,9 @@
   "name": "nextjs-app-10",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -17,5 +20,5 @@
   },
   "devDependencies": {
     "sass": "^1.75.0"
-  }
+  },
 }
